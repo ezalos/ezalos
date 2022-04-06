@@ -64,7 +64,6 @@ Head of [42-AI](https://github.com/42-AI), I am producing Deeplearning research 
 
 <h2>
  Low level
-  Operations
 </h2>
 <div>
 	<!-- <br/> -->
