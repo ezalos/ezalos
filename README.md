@@ -24,9 +24,10 @@ Head of [42-AI](https://github.com/42-AI), I am producing Deeplearning research 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 		<!-- <br/> -->
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title="Pytotch" alt="Pytotch" width="40" height="40"/>&nbsp;
-		<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" alt="Sklearn" height="40"/>&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-		<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  		<img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" title="MLflow" alt="MLflow" height="40"/>&nbsp;
+		<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" alt="Sklearn" height="40"/>&nbsp;
+		<img src="https://hydra.cc/img/logo.svg" title="Hydra" alt="Hydra" height="40"/>&nbsp;
   </summary>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
@@ -35,8 +36,8 @@ Head of [42-AI](https://github.com/42-AI), I am producing Deeplearning research 
   <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" title="optuna" alt="optuna" height="40"/>&nbsp;
   <br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://mlflow.org/images/MLflow-logo-final-white-TM.png" title="MLflow" alt="MLflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" title="" alt="" height="40"/>&nbsp; -->
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" title="" alt="" height="40"/>&nbsp; -->
 </details>
 
 <h2>
