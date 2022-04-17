@@ -20,6 +20,7 @@ Head of [42-AI](https://github.com/42-AI), I am producing Deeplearning research 
 </h2>
 <details>
   <summary>
+		🚀
 		<!-- <br/> -->
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 		<!-- <br/> -->
@@ -45,6 +46,7 @@ Head of [42-AI](https://github.com/42-AI), I am producing Deeplearning research 
 </h2>
 <details>
   <summary>
+		🚀
 		<!-- <br/> -->
     	<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
