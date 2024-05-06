@@ -3,8 +3,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 
-[//]: # (![ezalos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezalos&show_icons=true&theme=tokyonight))
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/louis-d-7b3610203/)
 
 </h1>
